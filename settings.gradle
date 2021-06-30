@@ -1,2 +1,6 @@
-include ':aarWrapper'
+//include ':aarWrapper'
 
+include ':app'
+//include ':old-lint'
+include ':lint'
+include ':lint-publisher'
