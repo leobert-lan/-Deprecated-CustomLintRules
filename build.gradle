@@ -6,6 +6,7 @@ buildscript {
     }
     dependencies {
         classpath "com.android.tools.build:gradle:3.5.3"
+        classpath 'com.rocketzly:lintPlugin:0.0.7'
     }
 }
 
