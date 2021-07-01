@@ -1,3 +1,31 @@
+# Deprecated
+
+这种方式太过于麻烦，转向Lint+Plugin方式
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CustomLintRules [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CustomLintRules-green.svg?style=flat)](https://android-arsenal.com/details/3/2667)
 A basic, Gradle-based project template for writing custom Android Lint rules.
 
